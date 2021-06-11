@@ -34,4 +34,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 11. Doraemon
 12. Purikyua
 13. Akira
-14. 
+14. Toy Story
