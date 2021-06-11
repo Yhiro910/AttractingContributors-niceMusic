@@ -35,3 +35,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 12. Purikyua
 13. Akira
 14. Toy Story
+15. Zootopia
