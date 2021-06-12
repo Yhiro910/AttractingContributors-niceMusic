@@ -26,6 +26,6 @@ I want to know the name of your favorite Doraemon's Secret Tools. I'm looking fo
 5. Anki-pan
 6. Big-Light
 7. Jinsei-Yarinaoshi-Ki
-8.
+8. Time machine
 9.
 10.
